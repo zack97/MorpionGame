@@ -3,7 +3,7 @@ package MorpionGame;
 import java.util.HashMap;
 import java.util.Scanner;
 
-import static Projet2_Morpion.StringConstant.BLANK;
+import static MorpionGame.StringConstant.BLANK;
 
 
 public class Main {

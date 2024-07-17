@@ -2,8 +2,8 @@ package MorpionGame;
 
 import java.util.Arrays;
 
-import static Projet2_Morpion.StringConstant.LINE_SEPARATOR;
-import static Projet2_Morpion.StringConstant.SPACE;
+import static MorpionGame.StringConstant.LINE_SEPARATOR;
+import static MorpionGame.StringConstant.SPACE;
 
 public class TicTacToe {
     private char[][] grid = new char[][]{
