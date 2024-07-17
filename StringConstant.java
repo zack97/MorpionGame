@@ -1,4 +1,4 @@
-package Projet2_Morpion;
+package MorpionGame;
 
 public class StringConstant {
     public static final String LINE_SEPARATOR = System.lineSeparator();

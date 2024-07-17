@@ -1,4 +1,4 @@
-package Projet2_Morpion;
+package MorpionGame;
 
 import java.util.HashMap;
 import java.util.Scanner;

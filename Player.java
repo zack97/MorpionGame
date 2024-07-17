@@ -1,4 +1,4 @@
-package Projet2_Morpion;
+package MorpionGame;
 
 public enum Player {
     FIRST, SECOND
